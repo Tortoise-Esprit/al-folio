@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+こんにちは。私は地方の病院や福祉施設で精神科臨床をやっているものです。趣味の範囲で精神医学に近接した現象学や実存哲学について渉猟をしています。精神病理学に大きく関心を寄せていますが、精神分析や臨床心理学全般にも強い興味があります。精神医学や哲学、人文科学以外にも日常ではゲームをしたり、料理をすることも好んでいます。これまで様々な媒体で趣味についてのブログを作成してきましたが、サービス終了や
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
